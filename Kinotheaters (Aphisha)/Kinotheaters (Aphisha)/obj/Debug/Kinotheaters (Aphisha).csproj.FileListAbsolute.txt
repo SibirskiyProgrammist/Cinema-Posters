@@ -1,0 +1,26 @@
+C:\Users\pr-1\Documents\Visual Studio 2013\Projects\350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\bin\Debug\Kinotheaters (Aphisha).exe.config
+C:\Users\pr-1\Documents\Visual Studio 2013\Projects\350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\bin\Debug\Kinotheaters (Aphisha).exe
+C:\Users\pr-1\Documents\Visual Studio 2013\Projects\350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\bin\Debug\Kinotheaters (Aphisha).pdb
+C:\Users\pr-1\Documents\Visual Studio 2013\Projects\350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\MainWindow.baml
+C:\Users\pr-1\Documents\Visual Studio 2013\Projects\350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\MainWindow.g.cs
+C:\Users\pr-1\Documents\Visual Studio 2013\Projects\350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\App.g.cs
+C:\Users\pr-1\Documents\Visual Studio 2013\Projects\350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\Kinotheaters (Aphisha)_MarkupCompile.cache
+C:\Users\pr-1\Documents\Visual Studio 2013\Projects\350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\Kinotheaters (Aphisha).g.resources
+C:\Users\pr-1\Documents\Visual Studio 2013\Projects\350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\Kinotheaters__Aphisha_.Properties.Resources.resources
+C:\Users\pr-1\Documents\Visual Studio 2013\Projects\350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\Kinotheaters (Aphisha).csproj.GenerateResource.Cache
+C:\Users\pr-1\Documents\Visual Studio 2013\Projects\350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\Kinotheaters (Aphisha).exe
+C:\Users\pr-1\Documents\Visual Studio 2013\Projects\350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\Kinotheaters (Aphisha).pdb
+C:\Users\user.COMP-06\Documents\9ИС-350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\bin\Debug\Kinotheaters (Aphisha).exe.config
+C:\Users\user.COMP-06\Documents\9ИС-350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\bin\Debug\Kinotheaters (Aphisha).exe
+C:\Users\user.COMP-06\Documents\9ИС-350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\bin\Debug\Kinotheaters (Aphisha).pdb
+C:\Users\user.COMP-06\Documents\9ИС-350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\Kinotheaters (Aphisha).csproj.AssemblyReference.cache
+C:\Users\user.COMP-06\Documents\9ИС-350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\MainWindow.baml
+C:\Users\user.COMP-06\Documents\9ИС-350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\MainWindow.g.cs
+C:\Users\user.COMP-06\Documents\9ИС-350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\App.g.cs
+C:\Users\user.COMP-06\Documents\9ИС-350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\Kinotheaters (Aphisha)_MarkupCompile.cache
+C:\Users\user.COMP-06\Documents\9ИС-350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\Kinotheaters (Aphisha).g.resources
+C:\Users\user.COMP-06\Documents\9ИС-350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\Kinotheaters__Aphisha_.Properties.Resources.resources
+C:\Users\user.COMP-06\Documents\9ИС-350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\Kinotheaters (Aphisha).csproj.GenerateResource.cache
+C:\Users\user.COMP-06\Documents\9ИС-350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\Kinotheaters (Aphisha).csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-06\Documents\9ИС-350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\Kinotheaters (Aphisha).exe
+C:\Users\user.COMP-06\Documents\9ИС-350\Kinotheaters (Aphisha)\Kinotheaters (Aphisha)\obj\Debug\Kinotheaters (Aphisha).pdb
